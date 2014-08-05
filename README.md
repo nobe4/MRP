@@ -12,7 +12,7 @@ Planning a one-day trip in a city you don't know may be a pain.
 Google Maps API & Angular JS
 
 # Roadmap
-- [ ] Create simple map
+- [x] Create simple map
 - [ ] Add the basic functionnalities via the console
 - [ ] Create the basic UI
 - [ ] Bind the UI to the functionnalities
