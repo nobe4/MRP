@@ -13,16 +13,16 @@ Google Maps API & Angular JS
 
 # Roadmap
 - [ ] Create simple map
-- [ ] Add the basic functionnalities via the console
+- [ ] Add the basic functionnalities via the console
 - [ ] Create the basic UI
 - [ ] Bind the UI to the functionnalities
 
-# Functionnalities
-- [ ] Add main City for the trip to start
-- [ ] Search for nearby place to go (café, museum, ...)
-- [ ] For a place, check for availability and opening hours
-- [ ] Display the selected places on the map
-- [ ] Rearrange the order of the places during the day
-- [ ] Select specific hours for each place
-- [ ] Generate a route for the trip
+# Functionalities
+- [ ] Add main City for the trip to start
+- [ ] Search for nearby place to go (café, museum, ...)
+- [ ] For a place, check for availability and opening hours
+- [ ] Display the selected places on the map
+- [ ] Rearrange the order of the places during the day
+- [ ] Select specific hours for each place
+- [ ] Generate a route for the trip
 	- [ ] Select navigation options (bus, walk, bike, ...)
